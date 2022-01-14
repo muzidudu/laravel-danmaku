@@ -1,6 +1,6 @@
 <?php
 
-Route::resource('/danmakuv2', 'MoePlayer\Danmaku\Controllers\DanmakuController')
+Route::resource('/danmakuv3', 'MoePlayer\Danmaku\Controllers\DanmakuController')
     ->middleware([
         'throttle',
         'web'
