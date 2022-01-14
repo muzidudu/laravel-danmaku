@@ -7,7 +7,7 @@
 You can install the package via composer:
 
 ```bash
-composer require moeplayer/laravel-danmaku
+composer require muzidudu/laravel-danmaku
 
 ```
 
