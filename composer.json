@@ -1,5 +1,5 @@
 {
-  "name": "moeplayer/laravel-danmaku",
+  "name": "muzidudu/laravel-danmaku",
   "description": "DPlayer Danmaku For Laravel 5",
   "type": "library",
   "keywords": [
@@ -16,7 +16,7 @@
     }
   ],
   "require": {
-    "php": "^7.0",
+    "php": ">=7.0",
     "illuminate/auth": "~5.5.0|~5.6.0",
     "illuminate/database": "~5.5.0|~5.6.0"
   },
